@@ -18,7 +18,7 @@ I'm **Tuấn**, a Business Analyst, Tester, and Software Engineer based in Hà N
 
 ## 📫 Contact Me
 
-[Portfolio](portfo-pearl-xi.vercel.app)
+[Portfolio]:portfo-pearl-xi.vercel.app
 
 ## 📊 GitHub Contribution Snake
 
