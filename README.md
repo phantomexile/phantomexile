@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Tuấn**, a Business Analyst, Tester, and Software Engineer based in Hà Nội, Vietnam.
+I'm **Tuấn**, a Business Analyst based in Hà Nội, Vietnam.
 
 ## 🔧 My Tools
 
